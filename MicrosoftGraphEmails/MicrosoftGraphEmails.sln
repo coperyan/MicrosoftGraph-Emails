@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftGraphEmails", "MicrosoftGraphEmails\MicrosoftGraphEmails.csproj", "{BB1ADAAE-35E8-4A6C-A325-975B1CB48CAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB1ADAAE-35E8-4A6C-A325-975B1CB48CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1ADAAE-35E8-4A6C-A325-975B1CB48CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1ADAAE-35E8-4A6C-A325-975B1CB48CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1ADAAE-35E8-4A6C-A325-975B1CB48CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0E2042D-B494-4936-A3DB-BB8AAC741B4A}
+	EndGlobalSection
+EndGlobal
